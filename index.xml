@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://frank3054.github.io/franksincere.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Dec 2021 16:30:25 +0800</lastBuildDate><atom:link href="https://frank3054.github.io/franksincere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://frank3054.github.io/franksincere.github.io/post/blog/</link>
+      <pubDate>Thu, 16 Dec 2021 16:30:25 +0800</pubDate>
+      
+      <guid>https://frank3054.github.io/franksincere.github.io/post/blog/</guid>
+      <description>知乎：如何看待慕课网涉嫌抄袭开源项目作为《Java工程师》的终极项目并上线销售？ 《newbee-mall开源项目被慕课网拿去做课程，然后我毫不知情，这又是什么骚操作？》 《起诉书！慕课网你敢抄袭，我就敢起诉你！》 《花费3680元买了一个慕课网的Java就业班课程，里面竟然有自己写的开源项目！》 《newbee-mall开源项目被慕课网拿去做课程，讲师已道歉，课程却还在售卖》 《可笑！慕课网涉嫌抄袭开源项目至今没有道歉，而且在偷偷的“毁尸灭迹”》 《最新证据：代码相似度达到90%以上！再谈慕课网涉嫌抄袭事件》 《newbee-mall开源项目被慕课网拿去做课程，项目详细对比记录，更多实锤看这里》 《一个被慕课网拿去做Java就业班终极项目的开源商城项目，推荐给大家》  
+newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+新蜂商城线上预览地址：http://mall.newbee.ltd，账号可自行注册。
+坚持不易，如果觉得项目还不错的话可以给项目一个 Star 吧，也是对我自 2019 年开始一直更新这个项目的一种鼓励啦，谢谢各位的支持。
+ newbee-mall 对新手开发者十分友好，无需复杂的操作步骤，仅需 2 秒就可以启动这个完整的商城项目； newbee-mall 也是一个企业级别的 Spring Boot 大型项目，对于各个阶段的 Java 开发者都是极佳的选择； 你可以把它作为 Spring Boot 技术栈的综合实践项目，newbee-mall 足够符合要求，且代码开源、功能完备、流程完整、页面交互美观； 技术栈新颖且知识点丰富，学习后可以提升大家对于知识的理解和掌握，可以进一步提升你的市场竞争力； 对于部分求职中的 Java 开发者，你也可以将该项目放入求职简历中以丰富你的工作履历； newbee-mall 还有一些不完善的地方，鄙人才疏学浅，望见谅； 有任何问题都可以反馈给我，我会尽量完善该项目。  新蜂商城有两个仓库：
+ 新蜂商城 newbee-mall 新蜂商城升级版 newbee-mall-plus  新蜂商城前后端分离版本也已经开源，包括四个仓库：
+ 新蜂商城后端接口 newbee-mall-api 新蜂商城 Vue2 版本 newbee-mall-vue-app 新蜂商城 Vue3 版本 newbee-mall-vue3-app 新蜂商城后台管理系统 Vue3 版本 vue3-admin   更多 Spring Boot 实战项目可以关注十三的另一个代码仓库 spring-boot-projects，该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的前后端分离实践项目等，后续会根据大家的反馈继续增加一些实战项目源码，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。</description>
+    </item>
+    
+  </channel>
+</rss>
